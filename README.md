@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
+  <a href="https://github.com/megatronGA/the-book-of-secret-knowledge/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="http://www.gnu.org/licenses/">
@@ -21,8 +21,8 @@
 
 <div align="center">
   <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
+  <a href="https://twitter.com/megatronGA">trimstray</a> and
+  <a href="https://github.com/megatronGA/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
 </div>
 
 <br>
