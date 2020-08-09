@@ -21,7 +21,7 @@
 
 <div align="center">
   <sub>Created by
-  <a href="https://github.com/megatronGA/the-book-of-secret-knowledge/graphs/contributors">megatronGA</a>
+  <a href="https://github.com/megatronGA/the-book-of-secret-knowledge/graphs/contributors">megatronGA&contributors</a>
 </div>
 
 <br>
