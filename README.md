@@ -57,7 +57,7 @@ Before adding a pull request, please see the **[contributing guidelines](CONTRIB
 
 ## :gift_heart: &nbsp;Support
 
-If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **positive energy** by giving some **good words** or **supporting this project**. Thank you!
+If this project is useful and important for you or if you really like _the-book-of-secret-knowledge_, you can bring **your own experience and contributions** by giving some **vauluable input** or **supporting this project**. Thank you!
 
 ## :ballot_box_with_check: &nbsp;Todo
 
