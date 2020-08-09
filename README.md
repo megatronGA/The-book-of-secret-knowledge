@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <sub>Created by
+  <sub>Created by trimstay and supported by megatronGA
   <a href="https://github.com/megatronGA/the-book-of-secret-knowledge/graphs/contributors">megatronGA&contributors</a>
 </div>
 
